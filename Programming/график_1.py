@@ -4,10 +4,10 @@ import matplotlib.pyplot as plt
 import math
 
 g = 9.81
-M0 = 39646.6
+M0 = 41650
 
 T0 = 1004146.3
-Isp = 297.7
+Isp = 300
 k = T0 / (Isp * g)
 
 A = 79.3

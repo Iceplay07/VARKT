@@ -3,10 +3,10 @@ from scipy.integrate import odeint
 import matplotlib.pyplot as plt
 
 # Параметры
-m0 = 39646.6
+m0 = 41650
 m_fuel = 28796.6
 F_thrust = 1_004_146.3
-Isp = 297.7
+Isp = 300
 A = 79.3
 Cd = 0.30
 rho0 = 1.225
